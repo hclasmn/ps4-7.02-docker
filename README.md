@@ -1,4 +1,4 @@
-# ps4-bj-6.72
+# ps4-bj-docker:7.02
 
 git clone https://github.com/zerofo/702.git
 每日自动git pull源码
